@@ -29,7 +29,7 @@ func openbrowser(url string) {
 func main() {
 	fmt.Println("Script starting")
 
-	url := "https://stackoverflow.com/questions/56218573/how-to-replace-flash-media-server-with-ant-media-server"
+	url := "https://stackoverflow.com/users/8817146/rotimi-best"
 
 	fmt.Println("Browser opening")
 
